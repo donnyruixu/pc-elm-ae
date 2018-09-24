@@ -1,0 +1,111 @@
+data loaded
+The # of hidden nodes of ELM AEs: (512-512-1024)
+C of ELM AEs: (1.0e-03, 1.0e-01, 1.0e-01)
+The # of hidden nodes of ELM classifier: 700
+C of ELM classifier: 1.0e+06
+**start training**
+ELM AE 1 trained
+time used 101.76813888549805
+ELM AE 2 trained
+time used 193.8136601448059
+ELM AE 3 trained
+time used 249.96175122261047
+global feature extracted
+ELM classifier trained
+**start testing**
+**end of testing**
+total time used 10.4mins
+train time used 9.1mins
+test time used 74.5s
+instance accuracy 91.96035242290749
+class accuracy [0.86       0.98       1.         0.8023256  0.89534885 0.98
+ 0.76744187 0.99       0.86       0.99      ]
+mean class accuracy 91.25115275382996
+The # of hidden nodes of ELM AEs: (512-512-1024)
+C of ELM AEs: (1.0e-03, 1.0e-01, 1.0e-01)
+The # of hidden nodes of ELM classifier: 700
+C of ELM classifier: 1.0e+06
+**start training**
+ELM AE 1 trained
+time used 98.53812670707703
+ELM AE 2 trained
+time used 181.56518483161926
+ELM AE 3 trained
+time used 244.46736478805542
+global feature extracted
+ELM classifier trained
+**start testing**
+**end of testing**
+total time used 10.1mins
+train time used 8.8mins
+test time used 79.8s
+instance accuracy 91.07929515418502
+class accuracy [0.92       1.         0.99       0.7906977  0.81395346 0.96
+ 0.7906977  1.         0.81       0.99      ]
+mean class accuracy 90.65348505973816
+The # of hidden nodes of ELM AEs: (512-512-1024)
+C of ELM AEs: (1.0e-03, 1.0e-01, 1.0e-01)
+The # of hidden nodes of ELM classifier: 700
+C of ELM classifier: 1.0e+06
+**start training**
+ELM AE 1 trained
+time used 103.67840504646301
+ELM AE 2 trained
+time used 185.17991590499878
+ELM AE 3 trained
+time used 242.69843649864197
+global feature extracted
+ELM classifier trained
+**start testing**
+**end of testing**
+total time used 10.2mins
+train time used 8.9mins
+test time used 77.9s
+instance accuracy 92.29074889867842
+class accuracy [0.9        1.         0.98       0.8255814  0.8255814  0.97
+ 0.81395346 1.         0.86       1.        ]
+mean class accuracy 91.75115823745728
+The # of hidden nodes of ELM AEs: (512-512-1024)
+C of ELM AEs: (1.0e-03, 1.0e-01, 1.0e-01)
+The # of hidden nodes of ELM classifier: 700
+C of ELM classifier: 1.0e+06
+**start training**
+ELM AE 1 trained
+time used 100.23108053207397
+ELM AE 2 trained
+time used 183.39606070518494
+ELM AE 3 trained
+time used 243.13876724243164
+global feature extracted
+ELM classifier trained
+**start testing**
+**end of testing**
+total time used 10.1mins
+train time used 8.8mins
+test time used 79.7s
+instance accuracy 91.62995594713657
+class accuracy [0.88      1.        0.98      0.8372093 0.872093  0.96      0.7790698
+ 1.        0.8       1.       ]
+mean class accuracy 91.0837173461914
+The # of hidden nodes of ELM AEs: (512-512-1024)
+C of ELM AEs: (1.0e-03, 1.0e-01, 1.0e-01)
+The # of hidden nodes of ELM classifier: 700
+C of ELM classifier: 1.0e+06
+**start training**
+ELM AE 1 trained
+time used 104.79940462112427
+ELM AE 2 trained
+time used 192.86378049850464
+ELM AE 3 trained
+time used 250.89710521697998
+global feature extracted
+ELM classifier trained
+**start testing**
+**end of testing**
+total time used 10.5mins
+train time used 9.2mins
+test time used 78.6s
+instance accuracy 91.96035242290749
+class accuracy [0.9       1.        0.99      0.8023256 0.8488372 0.95      0.8255814
+ 1.        0.84      0.99     ]
+mean class accuracy 91.46744012832642
